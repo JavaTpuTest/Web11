@@ -1,0 +1,64 @@
+table {
+    border-collapse: collapse;
+}
+
+table {
+    font-family: monospace;
+    text-align: center;
+    border-collapse: collapse;
+}
+td{
+    font-size: 18px;
+    padding: 15px 35px;
+}
+h1
+{
+font-family: "Times New Roman", Georgia, Serif;
+}
+body {
+color: #00CED1;
+
+}
+.form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: none;
+    outline: 2px solid #000;
+}
+
+.form h1 {
+    margin: 30px 100px;
+    padding: 0;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.form h2 {
+    margin: 30px 100px;
+    padding: 0;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.form-welcome {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: none;
+}
+
+.form-welcome h3 {
+    margin: 30px 100px;
+    padding: 0;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.form a:hover {
+    color: #0fc3f5;
+}
